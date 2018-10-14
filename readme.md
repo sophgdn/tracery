@@ -14,12 +14,14 @@ The origin gives the basic sentence structure of the Tweet
 
 ```
 	"origin": ["#enhance# your #meetings# by #engaging with# #whiteboarding#"]
-
 ```
 
 Everything in the origin enclosed by "#" is treated as a variable. These are modified by adding to or removing from the associated array e.g.
 
 ```
 	"enhance" : ["Enhance", "Optimize", "Drive", "Rethink", "Hack", "Intensify", "Boost", "Innovate", "Streamline", "Simplify", "Extend", "Reinvent", "Augment", "Strengthen", "Upgrade", "Invigorate", "Advance", "Raise the profile of", "Progress", "Elevate", "Over-complicate", "Revise", "Rework", "Revolutionize", "Bring new life to", "Create engagement with", "Polish"]
-
 ```
+
+An example of a Tweet created by this 
+
+![@DesignAdviceBot Tweet](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/exampleDesignBotTweet.png)
