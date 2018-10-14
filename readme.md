@@ -2,7 +2,7 @@
 
 ## A text-expansion library
 
-Go here to @galaxykate's [tracery](https://github.com/galaxykate/tracery) to understand how to use & modify this 
+Go here to @galaxykate [tracery](https://github.com/galaxykate/tracery) to understand how to use & modify this 
 
 ### Write grammar objects, get generative stories
 
