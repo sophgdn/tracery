@@ -24,4 +24,4 @@ Everything in the origin enclosed by "#" is treated as a variable. These are mod
 
 An example of a Tweet created by this 
 
-![@DesignAdviceBot Tweet](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/exampleDesignBotTweet.png)
+![@DesignAdviceBot Tweet](https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/example_tweet.png)
