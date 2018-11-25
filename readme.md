@@ -4,7 +4,7 @@
 
 Go [here to galaxykate's tracery](https://github.com/galaxykate/tracery) to understand how to use & modify this 
 
-Go [here to @DesignAdviceBot on Twitter](https://twitter.com/DesignAdviceBot) to see the end output of this  
+Go [here to @DesignAdviceBot on Twitter](https://twitter.com/DesignAdviceBot) to see the end output of this on Twitter.com
 
 or go [here to cheapbotsdonequick.com](https://cheapbotsdonequick.com/source/DesignAdviceBot) to see how to generate Tweets from this code
 
